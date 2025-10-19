@@ -6,3 +6,7 @@ These tasks have been designed to:
 - allow you to learn some interesting concepts of QC.
 - give you some choices depending on your interests.
 
+- Tried solutions
+- Task1 Gate Tomography
+- Task 4 QSVM
+
